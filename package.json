@@ -1,0 +1,12 @@
+{
+  "name": "com.secretcrush.charactercontroller.catlike",
+  "version": "1.0.0",
+  "description": "A basic 3D character controller heavily inspired by Jasper Flick's example from catlikecoding.com a.k.a. the Catlike Coding Character Controller (C4)",
+  "displayName": "Character Controller (C4)",
+  "unity": "2019.1",
+  "author": {
+    "name": "Aaron Freedman",
+    "email": "aaron@secretcrush.net"
+  },
+  "license": "MIT"
+}
